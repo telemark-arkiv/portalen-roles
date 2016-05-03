@@ -1,0 +1,9 @@
+{
+  "kommunikasjon": {
+    "name": "Team kommunikasjon",
+    "groups": [
+      "administrasjonen",
+      "kommunikasjon"
+    ]
+  }
+}
