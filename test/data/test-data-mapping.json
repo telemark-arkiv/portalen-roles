@@ -1,8 +1,9 @@
 {
+  "testinput": [
+    "klosterskogenvgs"
+  ],
   "expected": [
-    {
-      "id": "kommunikasjon",
-      "name": "Team kommunikasjon"
-    }
+      "klosterskogenvgs",
+      "skole"
   ]
 }
