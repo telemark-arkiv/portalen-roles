@@ -1,46 +1,51 @@
 Administrativ ledelse
 Aust-Telemark tannhelsedistrikt
-Brekkeby vgs
+BREKKEBY VGS
 BTV internasjonal gruppe
-Bamble tannhelsedistrikt
+Bamble vgs avd grasmyr
 Bamble vgs. avd. Croftholmen
 Bamble vgs. avd. Grasmyr
+Brekkeby vgs
+Bø vidaregåande skule
 Drangedal tannklinikk
 Driftsavdelingen
 Edland tannklinikk
 Fylkesbiblioteket Telemarksbiblio
 Fylkestannlegens kontor
-Geoparken
-Granlien aktivitetssenter
 Hjalmar Johansen vgs
-Hurum Kommune
-Husservice
+KLOSTERSKOGEN VGS
+KRAGERØ VGS
 Klosterskogen vgs
-Kulturskatten
+Kragerø tannklinikk
+Kragerø videregående skole
 Kursbruker
-Midt-Telemark tannhelsedistrikt
-Notodden vgs
-Nedre Eiker kommune
-Nedre Telemark Jordskifterett
+NOTODDEN VGS
 Nome vgs. avd. Lunde
+Nome vgs. avd. Søve
+Nome videregående skole
 Norges Husflidslag
 Notodden tannklinikk
+Notodden videregående skole
+OKOS - Opplæringskontoret for Offentlig sektor
+Opplæringsetaten
+Opplæringskontoret for offentlig sektor
 Oralkirurgisk klinikk Telemark
+PORSGRUNN VGS
 Politiker
-Porsgrunn tannhelsedistrikt
 Porsgrunn vgs
+Porsgrunn videregående skole
 Regionaletaten
 Rjukan tannklinikk
-Skogmo vgs
+Rjukan videregående skole
+SKIEN VGS
 Seljord tannklinikk
 Sentraladministrasjonen
-Sentraladministrasjonen-TFK
 Servicesenteret
 Siljan tannklinikk
-Skien tannhelsedistrikt
 Skien vgs
+Skien videregående skole
+Skogmo videregående skole
 Spesialisttannklinikken
-Stabsavdelingen
 Stathelle tannklinikk
 TFK Administrasjon
 TFK Administrasjonen
@@ -49,17 +54,13 @@ Tannklinikken Midt Telemark
 Tannklinikken Porsgrunn
 Tannklinikken Skien
 Team eiendom
-Telemark Fylkeskommune
-Telemark kommunerevisjon
-Telemark kommunerevisjon IKS
 Telemark tekniske fagskole
-Telemarkskanalen
 Treungen tannklinikk
 Ulefoss tannklinikk
 Vest-Telemark tannhelsedistrikt
 Vest-Telemark vgs. avd. Dalen
-Vestmar tannhelsedistrikt
 Vigo IKS
 Vinje tannklinikk
-atea
+driftsavdelingen
+kursbruker
 sentraladministrasjon

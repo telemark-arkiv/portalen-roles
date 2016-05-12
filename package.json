@@ -1,6 +1,6 @@
 {
   "name": "portalen-roles",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Map a user's roles for portalen",
   "license": "MIT",
   "author": {
@@ -22,7 +22,9 @@
     "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
     "start": "node service.js",
     "isolated": "PORTALEN_ROLES_ISOLATED=1 node service.js",
-    "setup": "npm install && node setup.js"
+    "setup": "npm install && node setup.js",
+    "generate-unique": "node utils/get-unique-companies.js",
+    "generate-mappings": "node utils/generate-basic-mappings.js"
   },
   "repository": {
     "type": "git",
