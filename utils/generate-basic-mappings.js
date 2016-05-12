@@ -6,9 +6,10 @@ var list = fs.readFileSync('data/raw/unique-companies.txt', 'utf-8').split('\n')
 var mapping = {}
 
 list.forEach(function (item) {
-  mapping[generateId(item)] = {
+  var id = generateId(item)
+  mapping[id] = {
     name: item,
-    groups: [generateId(item)]
+    groups: ['alle', id]
   }
 })
 
