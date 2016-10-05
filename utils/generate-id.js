@@ -1,6 +1,6 @@
 'use strict'
 
-function generateId (input) {
+module.exports = (input) => {
   input = input.toLowerCase()
   input = input.replace(/\s/g, '')
   input = input.replace(/å/g, 'a')
@@ -9,5 +9,3 @@ function generateId (input) {
 
   return input
 }
-
-module.exports = generateId
