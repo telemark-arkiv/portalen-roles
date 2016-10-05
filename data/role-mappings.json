@@ -407,6 +407,14 @@
       "teameiendom"
     ]
   },
+  "tekomrev.no": {
+    "name": "Telemark kommunerevisjon IKS",
+    "groups": [
+      "alle",
+      "administrasjonen",
+      "tekomrev.no"
+    ]
+  },
   "telemarktekniskefagskole": {
     "name": "Telemark tekniske fagskole",
     "groups": [
