@@ -86,6 +86,15 @@
       "tannhelse"
     ]
   },
+  "fagskolentelemark": {
+    "name": "Fagskolen Telemark",
+    "groups": [
+      "alle",
+      "skole",
+      "fagskolentelemark",
+      "telemarktekniskefagskole"
+    ]
+  },
   "fylkesbibliotekettelemarksbiblio": {
     "name": "Fylkesbiblioteket Telemarksbiblio",
     "groups": [
@@ -420,6 +429,7 @@
     "groups": [
       "alle",
       "skole",
+      "fagskolentelemark",
       "telemarktekniskefagskole"
     ]
   },
