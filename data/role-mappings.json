@@ -119,6 +119,14 @@
       "skole"
     ]
   },
+  "karrieresenteret": {
+    "name": "Karrieresenteret",
+    "groups": [
+      "alle",
+      "administrasjonen",
+      "karrieresenteret"
+    ]
+  },
   "klosterskogenvgs": {
     "name": "Klosterskogen vgs",
     "groups": [
@@ -224,6 +232,7 @@
     "name": "Opplæringsetaten",
     "groups": [
       "alle",
+      "administrasjonen",
       "oppleringsetaten"
     ]
   },
@@ -263,6 +272,14 @@
       "alle",
       "porsgrunnvideregaendeskole",
       "skole"
+    ]
+  },
+  "pptoppftjenesten": {
+    "name": "PPT/oppf.tjenesten",
+    "groups": [
+      "alle",
+      "administrasjonen",
+      "pptoppftjenesten"
     ]
   },
   "regionaletaten": {
@@ -376,12 +393,28 @@
       "tfkadministrasjonen"
     ]
   },
+  "tfkarealtransportregutv": {
+    "name": "TFK areal, transport, reg.utv.",
+    "groups": [
+      "alle",
+      "administrasjonen",
+      "tfkarealtransportregutv"
+    ]
+  },
   "tfkeiendom": {
     "name": "TFK eiendom",
     "groups": [
       "alle",
       "administrasjonen",
       "tfkeiendom"
+    ]
+  },
+  "tfkkulturavdeling": {
+    "name": "TFK kulturavdeling",
+    "groups": [
+      "alle",
+      "administrasjonen",
+      "tfkkulturavdeling"
     ]
   },
   "tannklinikkenmidttelemark": {
