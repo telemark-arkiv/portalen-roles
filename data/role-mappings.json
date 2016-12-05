@@ -274,12 +274,12 @@
       "skole"
     ]
   },
-  "pptoppftjenesten": {
+  "pptoppf.tjenesten": {
     "name": "PPT/oppf.tjenesten",
     "groups": [
       "alle",
       "administrasjonen",
-      "pptoppftjenesten"
+      "pptoppf.tjenesten"
     ]
   },
   "regionaletaten": {
@@ -393,12 +393,12 @@
       "tfkadministrasjonen"
     ]
   },
-  "tfkarealtransportregutv": {
+  "tfkarealtransportreg.utv.": {
     "name": "TFK areal, transport, reg.utv.",
     "groups": [
       "alle",
       "administrasjonen",
-      "tfkarealtransportregutv"
+      "tfkarealtransportreg.utv."
     ]
   },
   "tfkeiendom": {
