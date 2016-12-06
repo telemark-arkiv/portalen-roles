@@ -23,6 +23,14 @@
       "skole"
     ]
   },
+  "brekkebyvideregaendeskole": {
+    "name": "Brekkeby videregående skole",
+    "groups": [
+      "alle",
+      "brekkebyvideregaendeskole",
+      "skole"
+    ]
+  },
   "btvinternasjonalgruppe": {
     "name": "BTV internasjonal gruppe",
     "groups": [
@@ -249,6 +257,14 @@
       "alle",
       "oralkirurgiskklinikktelemark",
       "tannhelse"
+    ]
+  },
+  "osebakkenvideregaendeskole": {
+    "name": "Osebakken videregående skole",
+    "groups": [
+      "alle",
+      "osebakkenvideregaendeskole",
+      "skole"
     ]
   },
   "porsgrunnvgs": {
@@ -496,6 +512,14 @@
       "alle",
       "skole",
       "vest-telemarkvgs.avd.dalen"
+    ]
+  },
+  "vest-telem.vgs.avd.seljord": {
+    "name": "Vest-Telem. vgs. avd. Seljord",
+    "groups": [
+      "alle",
+      "skole",
+      "vest-telem.vgs.avd.seljord"
     ]
   },
   "vigoiks": {
