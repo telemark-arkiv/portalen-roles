@@ -1,6 +1,6 @@
 {
   "name": "portalen-roles",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "Map a user's roles for portalen",
   "license": "MIT",
   "private": true,
